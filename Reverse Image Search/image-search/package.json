@@ -1,0 +1,15 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "description": "testing TinEye API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vedansh",
+  "license": "ISC",
+  "dependencies": {
+    "google-search-results-nodejs": "^2.0.1",
+    "tineye-api": "^1.1.5"
+  }
+}
